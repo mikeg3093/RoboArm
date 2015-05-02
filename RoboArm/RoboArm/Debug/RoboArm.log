@@ -1,0 +1,17 @@
+﻿Build started 4/27/2015 7:59:19 PM.
+     1>Project "C:\Users\Mike\Desktop\opengl progs\RoboArm\RoboArm\RoboArm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RoboArm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         RoboArm.vcxproj -> C:\Users\Mike\Desktop\opengl progs\RoboArm\Debug\RoboArm.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\RoboArm.unsuccessfulbuild".
+         Touching "Debug\RoboArm.lastbuildstate".
+     1>Done Building Project "C:\Users\Mike\Desktop\opengl progs\RoboArm\RoboArm\RoboArm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.48

@@ -1,0 +1,20 @@
+﻿Build started 10/2/2013 2:22:22 PM.
+     1>Project "C:\Users\BO119LabStudent\Documents\project2OOPDemo\project2Demo\project2Demo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\project2Demo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\project2Demo.unsuccessfulbuild".
+         Touching "Debug\project2Demo.lastbuildstate".
+     1>Done Building Project "C:\Users\BO119LabStudent\Documents\project2OOPDemo\project2Demo\project2Demo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73

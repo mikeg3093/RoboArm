@@ -1,0 +1,36 @@
+﻿Build started 9/9/2013 2:26:55 PM.
+     1>Project "E:\CommonOpenGL\Graphics_proj0\Graphics_proj0\Graphics_proj0.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Graphics_proj0.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\angel.h(63): warning C4305: 'initializing' : truncation from 'double' to 'const GLfloat'
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(698): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(699): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(700): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(721): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(723): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\mat.h(743): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(48): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(50): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(50): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(52): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\commonopengl\graphics_proj0\graphics_proj0\main.cpp(56): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Graphics_proj0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.lib" /MACHINE:X86 Debug\InitShader.obj
+         Debug\main.obj
+         LINK : E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.exe not found or not built by the last incremental link; performing full link
+         Graphics_proj0.vcxproj -> E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\CommonOpenGL\Graphics_proj0\Debug\Graphics_proj0.exe;#1" /manifest Debug\Graphics_proj0.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Graphics_proj0.unsuccessfulbuild".
+         Touching "Debug\Graphics_proj0.lastbuildstate".
+     1>Done Building Project "E:\CommonOpenGL\Graphics_proj0\Graphics_proj0\Graphics_proj0.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:26.36
